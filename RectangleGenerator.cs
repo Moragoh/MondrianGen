@@ -2,7 +2,6 @@
 using UnityEngine;
 
 public class RectangleGenerator : MonoBehaviour {
-	// For Michelle 
 
 	public GameObject redSquare;
 	public GameObject blueSquare;
@@ -105,14 +104,6 @@ public class RectangleGenerator : MonoBehaviour {
 
 		StartCoroutine(GenerateRect());
 	}
-
-	// It will be okay
-	// Your tears may seem to fall to the dirt and get lost without purpose,
-	// But know that that are collected,
-	// Making progress.
-
 }
 
-// From Jun Min with care.
-// Also do you want to go to prom??
 
